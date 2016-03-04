@@ -1,1 +1,139 @@
-
+{
+	"languageName": "English",
+	"running": "now running!",
+	"settings": "Settings",
+	"customization": "Customization",
+	"notifications": "Notifications",
+	"inlinePreviews": "Inline Previews",
+	"plugRoles": {
+		"admin": "plug.dj Admin",
+		"brandambassador": "Brand Ambassador",
+		"host": "Host",
+		"cohost": "Co-Host",
+		"manager": "Manager",
+		"bouncer": "Bouncer",
+		"residentdj": "Resident DJ",
+		"goldsub": "Gold Subscriber",
+		"silversub": "Silver Subscriber",
+		"friend": "Friend",
+		"user": "User"
+	},
+	"plugHashRoles": {
+		"developer": "Developer",
+		"collaborator": "Collaborator",
+		"artist": "Artist",
+		"helper": "Helper",
+		"translator": "Translator",
+		"promoter": "Promoter",
+		"donator": "Donator",
+		"hash": "# User",
+		"rankwhore": "Rank Whore",
+		"whoreTitles": {
+			"1": "",
+			"2": "",
+			"3": "",
+			"4": "",
+			"5": "",
+			"6": "",
+			"7": "",
+			"8": "",
+			"9": "",
+			"10": ""
+		}
+	},
+	"settings": {
+		"autoTools": "Auto Tools",
+		"autoWoot": "Auto Woot",
+		"reverseWoot": "Reverse Woot",
+		"autoGrab": "Auto Grab",
+		"silentGrab": "Silent Grab",
+		"grabTo": "Grab to: ",
+		"autoJoin": "Auto Join",
+		"autoLeave": "Auto Leave",
+		"afkMessage": "AFK Message",
+		"afkMessageDefault": "Sorry, I'm not available right now.",
+		"accidentalNavigation": "Accidental Navigation Prevention",
+		"accidentalNavigationMSG": "Are you sure you wanna leave plug.dj?",
+		"desktopNotifications": "Desktop Notifications",
+		"customMentions": "Custom Mentions",
+		"customEmotes": "Custom Emotes",
+		"videoHidden": "Hidden Video",
+		"videoFullscreen": "Fullscreen Video",
+		"chatNotifications": "Chat Notifications",
+		"kill": "Kill plug#"
+	},
+	"customization": {
+		"legacyChat": "Legacy Chat",
+		"legacyFooter": "Legacy Footer",
+		"customMentionSound": "Custom Mention Sound",
+		"customBackground": "Custom Background",
+		"chatColors": "Custom Chat Colors",
+		"uiThemes": "plug# UI Themes",
+		"plugThemes": "plug.dj Themes"
+	},
+	"staffTools": {
+		"chatLog": "Chat Logger",
+		"deletedChat": "Show Deleted Chat",
+		"historyAlert": "History Alert",
+		"durationAlert": "Duration Alert",
+		"historyAlertMSG": "This song is on the history!",
+		"durationAlertMSG": "This song exceeds %%MINUTES%% minutes!"
+	},
+	"inlinePreviews": {
+		"images": "Images",
+		"gifs": "GIFs",
+		"videos": "Videos",
+		"audio": "Audio"
+	},
+	"notifications": {
+		"songAdvance": {
+			"lastSong": "Previous Song",
+			"currentSong": "Current Song",
+			"boothAlert": "Booth Alert",
+			"played": "played: ",
+			"playing": "is playing: ",
+			"boothAlertMSG": "You'll reach the booth in %%SONGS%% songs."
+		},
+		"user": {
+			"userJoin": "User Join Notifications",
+			"userLeave": "User Leave Notifications",
+			"userGrabs": "User Grabs",
+			"userWoots": "User Woots",
+			"userMehs": "User Mehs",
+			"userJoined": "joined the room.",
+			"userLeft": "left the room.",
+			"userWooted": "wooted the current song!",
+			"userMehd": "meh'd the current song!",
+			"userGrabbed": "grabbed: "
+		},
+		"guestJoin": "A guest joined the room.",
+		"guestLeave": "A guest left the room."
+	},
+	"misc": {
+		"hide": "Hide",
+		"show": "Show",
+		"enabled": "Enabled",
+		"disabled": "Disabled",
+		"menu": "Menu",
+		"msgerror": "An error occurred when trying to send this message",
+		"language": "Language",
+		"languages": "Languages",
+		"woots": "woots",
+		"grabs": "grabs",
+		"mehs": "mehs",
+		"rolloverID": "User ID: "
+	},
+	"commands": {
+		"error": "An error occurred. \nCheck your arguments",
+		"noperm": "You do not have permission for that!",
+		"afkDisable": " disabled AFK Messages.",
+		"joinDisable": " disabled Auto Join.",
+		"addvideo": {
+			"insufficientArgs": "Enter a YouTube URL then a playlist name!",
+			"playlistNotFound": "Playlist not found",
+			"failed": "Failed to add the video.",
+			"added": "Video %%AUTHOR%% - %%TITLE%% added to %%PLAYLISTNAME%%"
+		}
+	},
+	"killmsg": "Nooooooooooo :( "
+}

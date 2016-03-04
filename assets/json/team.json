@@ -1,1 +1,71 @@
-
+{ 
+	"developer": {
+		"rank": 1,
+		"icon": null,
+		"color": null,
+		"users": [
+			3575887,
+			3703511, 
+			6219413,
+			13411003
+		]
+	},
+	"collaborator": {
+		"rank": 2,
+		"icon": null,
+		"color": null,
+		"users": [
+			4253146,
+			3788214 
+		]
+	},
+	"artist": {
+		"rank": 4,
+		"icon": null,
+		"color": null,
+		"users": []
+	},
+	"helper": {
+		"rank": 5,
+		"icon": null,
+		"color": null,
+		"users": [
+			4925119,
+			5039941
+		]
+	},
+	"translator": {
+		"rank": 6,
+		"icon": null,
+		"color": null,
+		"users": []
+	},
+	"promoter": {
+		"rank": 7,
+		"icon": null,
+		"color": null,
+		"users": []
+	},
+	"donator": {
+		"rank": 8,
+		"icon": null,
+		"color": null,
+		"users": []
+	},
+	"hash": {
+		"rank": 9,
+		"icon": null,
+		"color": null,
+		"users": [
+			5579813
+		]
+	},
+	"rankwhore": {
+		"rank": 10,
+		"icon": null,
+		"color": null,
+		"users": [
+			13436126
+		]
+	}
+}

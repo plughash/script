@@ -1,1 +1,146 @@
 
+{
+	"languageName": "Português",
+	"running": "está ativo!",
+	"settings": "Configurações",
+	"customization": "Customização",
+	"notifications": "Notificações",
+	"inlinePreviews": "Previews no Chat",
+	"plugRoles": {
+		"admin": "plug.dj Admin",
+		"brandambassador": "Embaixador",
+		"host": "Anfitrião",
+		"cohost": "Co-Anfitrião",
+		"manager": "Coordenador",
+		"bouncer": "Segurança",
+		"residentdj": "DJ Residente",
+		"goldsub": "Assinante Ouro",
+		"silversub": "Assinante Prata",
+		"friend": "Amigo",
+		"user": "Usuário"
+	},
+	"plugHashRoles": {
+		"developer": "Desenvolvedor",
+		"collaborator": "Colaborador",
+		"artist": "Artista",
+		"helper": "Ajudante",
+		"translator": "Tradutor",
+		"promoter": "Promoter",
+		"donator": "Doador",
+		"hash": "# User",
+		"rankwhore": "Pidão de Cargo",
+		"whoreTitles": [
+			"Putinha de Cargo",
+			"Escravoceta",
+			"Já dei pros Admin",
+			"Puxa-Saco",
+			"Chorão",
+			"Presidiário",
+			"Usuário de Supositório",
+			"Diarreia Aguda",
+			"Filho do Catra",
+			"Traficante",
+			"Fui Adotado",
+			"Chupa Bolas",
+			"Estuprador",
+			"Sou adotado",
+			"Mendigo de PP",
+			"Cu arrombado"
+		]
+	},
+	"settings": {
+		"autoTools": "Ferramentas Automáticas",
+		"autoWoot": "Auto Woot",
+		"reverseWoot": "Woot Reverso",
+		"autoGrab": "Auto Add",
+		"silentGrab": "Add Silencioso",
+		"grabTo": "Adicionar para: ",
+		"autoJoin": "Auto Join",
+		"autoLeave": "Auto Leave",
+		"afkMessage": "Mensagem AFK",
+		"afkMessageDefault": "Desculpe, mas não estou disponível agora!",
+		"accidentalNavigation": "Prevenção de Navegação Acidental",
+		"accidentalNavigationMSG": "Você tem certeza que deseja sair do plug.dj?",
+		"desktopNotifications": "Notificações na Área de Trabalho",
+		"customMentions": "Menções Personalizadas",
+		"customEmotes": "Emotes Personalizados",
+		"videoHidden": "Vídeo Escondido",
+		"videoFullscreen": "Vídeo em Tela Cheia",
+		"chatNotifications": "Notificações do Chat",
+		"kill": "Encerrar o plug#"
+	},
+	"customization": {
+		"legacyChat": "Chat Antigo",
+		"legacyFooter": "Rodapé Antigo",
+		"customMentionSound": "Som de Menção Personalizado",
+		"customBackground": "Fundo Personalizado",
+		"chatColors": "Cores do Chat Personalizadas",
+		"uiThemes": "Temas de Interface do plug#",
+		"plugThemes": "Temas do plug.dj"
+	},
+	"staffTools": {
+		"chatLog": "Chat Logger",
+		"deletedChat": "Mostrar Mensagens Deletadas",
+		"historyAlert": "Alerta de Histórico",
+		"durationAlert": "Alerta de Duração",
+		"historyAlertMSG": "Este vídeo está no histórico!",
+		"durationAlertMSG": "Este vídeo excede %%MINUTES%% minutos!"
+	},
+	"inlinePreviews": {
+		"images": "Imagems",
+		"gifs": "GIFs",
+		"videos": "Vídeos",
+		"audio": "Audio"
+	},
+	"notifications": {
+		"songAdvance": {
+			"lastSong": "Música Anterior",
+			"currentSong": "Música Atual",
+			"boothAlert": "Alerta da Cabine",
+			"played": "tocou: ",
+			"playing": "está tocando: ",
+			"boothAlertMSG": "Você alcançará a cabine em %%SONGS%% músicas."
+		},
+		"user": {
+			"userJoin": "Notificações de Entrada de Usuário",
+			"userLeave": "Notificações de Saída de Usuário",
+			"userGrabs": "ADDs de Usuários",
+			"userWoots": "Woots de Usuários",
+			"userMehs": "Mehs de Usuários",
+			"userJoined": "entrou na sala.",
+			"userLeft": "saiu da sala.",
+			"userWooted": "votou Legal na música atual!",
+			"userMehd": "votou Chato na música atual!",
+			"userGrabbed": "adicionou: "
+		},
+		"guestJoin": "Um guest entrou na sala.",
+		"guestLeave": "Um guest saiu da sala."
+	},
+	"misc": {
+		"hide": "Esconder",
+		"show": "Mostrar",
+		"enabled": "Habilitado",
+		"disabled": "Desabilitado",
+		"menu": "Menu",
+		"msgerror": "Um erro ocorreu tentando enviar esta mensagem.",
+		"language": "Idioma",
+		"languages": "Idiomas",
+		"woots": "woots",
+		"grabs": "adds",
+		"mehs": "mehs",
+		"rolloverID": "ID do Usuário: "
+	},
+	"commands": {
+		"error": "Um erro ocorreu. \nCheque seus parâmetros",
+		"noperm": "Você não tem permissão para isto!",
+		"afkDisable": " desabilitou Mensagens AFK.",
+		"joinDisable": " desabilitou Auto Join.",
+		"addvideo": {
+			"insufficientArgs": "Especifique uma URL do YouTube e depois um nome de playlist!",
+			"playlistNotFound": "Playlist não encontrada",
+			"failed": "Falhou ao adicionar o víeo.",
+			"added": "Video %%AUTHOR%% - %%TITLE%% adicionado para %%PLAYLISTNAME%%"
+		}
+	},
+	"killmsg": "Nããããããããããoooo :( "
+}
