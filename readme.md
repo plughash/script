@@ -6,9 +6,7 @@
 
 #### Get it Now!
 
-You can either drag the button below to your Bookmarks, use our Chrome Extension or get the userscript for Tampermonkey/Greasemonkey.
-
-[![GET PLUG#](https://img.shields.io/badge/GET-PLUG%23-lightgrey.svg)](javascript:$.getScript('https://cdn.rawgit.com/plughash/script/master/plughash.js');) [![GET PLUG# CHROME EXTENSION](https://img.shields.io/badge/GET-PLUG%23%20CHROME%20EXTENSION-lightgrey.svg)](LINK_HERE) [![GET PLUG# CHROME EXTENSION](https://img.shields.io/badge/GET-PLUG%23%20USERSCRIPT-lightgrey.svg)](LINK_HERE) 
+You can go to [our page](http://plughash.github.io) to grab the script!
 
 ------------------
 
@@ -36,7 +34,7 @@ Keep in mind the project is new and there is still A LOT to be added.
   
 > **Donations and Transparency**
 
-  We want to be honest with all of you since without you, the script wouldn't make sense. We are taking donations to cover the costs of our server, that hosts our bot for the plug# Lottery, the bot's subscription (to give out the prizes), our PM Socket Server and our website.
+  We want to be honest with all of you since without you, the script wouldn't make sense. We are taking donations to cover the costs of our server, that hosts our bot, our PM Socket Server and our website.
   
   All donations are going towards all of that, each with its priority of course, we can manage paying that, but any help would be much appreciated. Donators will receive a rank visible to all plug# users, a couple of exclusive features and a **huge** thank you, from us.
   
