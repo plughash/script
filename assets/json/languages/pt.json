@@ -135,6 +135,7 @@
 		"noperm": "Você não tem permissão para isto!",
 		"afkDisable": " desabilitou Mensagens AFK.",
 		"joinDisable": " desabilitou Auto Join.",
+		"clearchat": "Chat limpo.",
 		"addvideo": {
 			"insufficientArgs": "Especifique uma URL do YouTube e depois um nome de playlist!",
 			"playlistNotFound": "Playlist não encontrada",
