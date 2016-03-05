@@ -129,6 +129,7 @@
 		"afkDisable": " disabled AFK Messages.",
 		"joinDisable": " disabled Auto Join.",
 		"clearchat": "Chat cleared.",
+		"delete": "Deleted the messages of the specified user."
 		"addvideo": {
 			"insufficientArgs": "Enter a YouTube URL then a playlist name!",
 			"playlistNotFound": "Playlist not found",
