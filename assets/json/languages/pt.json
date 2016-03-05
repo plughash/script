@@ -137,7 +137,7 @@
 		"afkDisable": " desabilitou Mensagens AFK.",
 		"joinDisable": " desabilitou Auto Join.",
 		"clearchat": "Chat limpo.",
-		"delete": "As mensagens do usuário especificado foram deletadas."
+		"delete": "As mensagens do usuário especificado foram deletadas.",
 		"addvideo": {
 			"insufficientArgs": "Especifique uma URL do YouTube e depois um nome de playlist!",
 			"playlistNotFound": "Playlist não encontrada",
