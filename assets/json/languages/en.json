@@ -102,6 +102,7 @@
 			"userMehs": "User Mehs",
 			"userJoined": "joined the room.",
 			"userLeft": "left the room.",
+			"userDC": "left the room, wait list spot: ",
 			"userWooted": "wooted the current song!",
 			"userMehd": "meh'd the current song!",
 			"userGrabbed": "grabbed: "
