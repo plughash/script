@@ -1,12 +1,13 @@
 # plug\# 
 
 ------------------
-###### plug# is a plugin for enhancements and quick accessibility to pretty much all you need (and more!) on [plug.dj](https://plug.dj)
+###### ~~plug# is a plugin for enhancements and quick accessibility to pretty much all you need (and more!) on [plug.dj](https://plug.dj)~~
+###### tis dead now, lack of support from one of the devs, which was important to the whole thing
 ------------------
 
-#### Get it Now!
+#### ~~Get it Now!~~
 
-You can go to [our page](http://plughash.github.io) to grab the script!
+~~You can go to [our page](http://plughash.github.io) to grab the script!~~
 
 ------------------
 
@@ -22,31 +23,12 @@ Keep in mind the project is new and there is still A LOT to be added.
 
 ------------------
 
-#### Notes
-
-> **We're looking for Translators**
-
-  Thats right! If you think you're capable enough you can help us translate plug# to your language.
-  If you sign up to help us out, keep in mind a few things:
-  * Translations made from Translation Engines such as Bing, Yahoo or Google will NOT be tolerated.
-  * If there is already multiple people working on a single language, we won't be accepting any others for that specific language.
-  * Inactive Translators will be removed from the team as this is an ongoing project, that will be always receiving updates.
-  
-> **Donations and Transparency**
-
-  We want to be honest with all of you since without you, the script wouldn't make sense. We are taking donations to cover the costs of our server, that hosts our bot, our PM Socket Server and our website.
-  
-  All donations are going towards all of that, each with its priority of course, we can manage paying that, but any help would be much appreciated. Donators will receive a rank visible to all plug# users, a couple of exclusive features and a **huge** thank you, from us.
-  
-  We'll only have a single Donator rank, any donation from $3+ will count towards getting the rank, donating multiple times or large amounts **WILL NOT** give your further perks or the right to request exclusive stuff for yourself. We don't want to hoard money from anyone, we just want the help from who is willing to give.
-  
-------------------
-
 #### Developers
 
-* [Yals](https://plug.dj/@/yals)
 * [Caipira](https://plug.dj/@/caipira)
 * [Burkes](https://plug.dj/@/burkes)
+* [Beta Tester](https://github.com/MatheusAvellar) (joined afterwards, great help <3)
+* [Yals](https://plug.dj/@/yals) (contributed about 2% of the whole project, supposedly founder)
 
 ------------------
 
