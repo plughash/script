@@ -5,19 +5,14 @@
 		"color": null,
 		"users": [
 			3575887,
-			3703511, 
-			6219413,
-			13524197
+			3703511
 		]
 	},
 	"collaborator": {
 		"rank": 2,
 		"icon": null,
 		"color": null,
-		"users": [
-			4253146,
-			3788214 
-		]
+		"users": []
 	},
 	"artist": {
 		"rank": 4,
@@ -29,10 +24,7 @@
 		"rank": 5,
 		"icon": null,
 		"color": null,
-		"users": [
-			4925119,
-			5039941
-		]
+		"users": []
 	},
 	"translator": {
 		"rank": 6,
@@ -61,7 +53,9 @@
 			13416528,
 			13416376,
 			13422398,
-			3851987
+			3851987,
+			4732821,
+			5039941
 		]
 	},
 	"rankwhore": {
